@@ -148,7 +148,6 @@ jdk/modules/etc/DefaultModules.java	https://github.com/AdoptOpenJDK/openjdk-test
 jdk/modules/incubator/ImageModules.java	https://github.com/AdoptOpenJDK/openjdk-tests/issues/1267	macosx-all
 vm/JniInvocationTest.java	https://github.com/AdoptOpenJDK/openjdk-build/issues/248	macosx-all
 jdk/internal/loader/NativeLibraries/Main.java https://github.com/AdoptOpenJDK/openjdk-tests/issues/1920 generic-all
-java/lang/invoke/lambda/superProtectedMethod/SuperMethodTest.java https://github.com/eclipse/openj9/issues/11783 generic-all
 java/lang/invoke/MethodHandles/publicLookup/Driver.java https://github.com/eclipse/openj9/issues/10648 generic-all
 java/lang/invoke/MethodHandlesPermuteArgumentsTest.java https://github.com/eclipse/openj9/issues/11822 generic-all
 java/lang/invoke/VarHandles/VarHandleTestExact.java https://github.com/eclipse/openj9/issues/11256 generic-all
