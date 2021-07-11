@@ -32,13 +32,13 @@
 		<testCaseName>jck-runtime-xml_schema-msData</testCaseName>
 		<disabled>
 			<comment>Disabled on win due to backlog/issues/487. Awaiting some automation improvements, in the interim these targets will be run manually</comment>
-			<platform>x86-64_windows(_mixed)?</platform>
+			<platform>x86-64_windows</platform>
 			<version>11</version>
 			<impl>ibm</impl>
 		</disabled>
 		<disabled>
 			<comment>Disabled on win due to backlog/issues/487. Awaiting some automation improvements, in the interim these targets will be run manually</comment>
-			<platform>x86-64_windows(_mixed)?</platform>
+			<platform>x86-64_windows</platform>
 			<version>11</version>
 			<impl>openj9</impl>
 		</disabled>
@@ -58,13 +58,13 @@
 		<testCaseName>jck-runtime-xml_schema-nistData</testCaseName>
 		<disabled>
 			<comment>Disabled on win due to backlog/issues/487. Awaiting some automation improvements, in the interim these targets will be run manually</comment>
-			<platform>x86-64_windows(_mixed)?</platform>
+			<platform>x86-64_windows</platform>
 			<version>11</version>
 			<impl>ibm</impl>
 		</disabled>
 		<disabled>
 			<comment>Disabled on win due to backlog/issues/487. Awaiting some automation improvements, in the interim these targets will be run manually</comment>
-			<platform>x86-64_windows(_mixed)?</platform>
+			<platform>x86-64_windows</platform>
 			<version>11</version>
 			<impl>openj9</impl>
 		</disabled>

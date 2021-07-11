@@ -18,13 +18,13 @@
 		<testCaseName>jck-devtools-java2schema-CustomizedMapping</testCaseName>
 		<disabled>
 			<comment>Disabled on x64 Linux + aarch64 + ppc64le on jdk8 due to backlog/issues/302. Awaiting potential test / setup issue resolution</comment>
-			<platform>x86-64_linux(_mixed)?|aarch64_linux(_mixed)?|ppc64le_linux(_mixed)?</platform>
+			<platform>x86-64_linux|aarch64_linux|ppc64le_linux</platform>
 			<version>8</version>
 			<impl>ibm</impl>
 		</disabled>
 		<disabled>
 			<comment>Disabled on x64 Linux + aarch64 + ppc64le on jdk8 due to backlog/issues/302. Awaiting potential test / setup issue resolution</comment>
-			<platform>x86-64_linux(_mixed)?|aarch64_linux(_mixed)?|ppc64le_linux(_mixed)?</platform>
+			<platform>x86-64_linux|aarch64_linux|ppc64le_linux</platform>
 			<version>8</version>
 			<impl>openj9</impl>
 		</disabled>

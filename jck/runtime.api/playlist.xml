@@ -286,12 +286,12 @@
 		<testCaseName>jck-runtime-api-signaturetest</testCaseName>
 		<disabled>
 			<comment>Disabled on osx for infrastructure/issues/5254. Awaiting some automation improvements, in the interim these targets will be run manually</comment>
-			<platform>x86-64_mac(_mixed)?</platform>
+			<platform>x86-64_mac</platform>
 			<impl>ibm</impl>
 		</disabled>
 		<disabled>
 			<comment>Disabled on osx for infrastructure/issues/5254. Awaiting some automation improvements, in the interim these targets will be run manually</comment>
-			<platform>x86-64_mac(_mixed)?</platform>
+			<platform>x86-64_mac</platform>
 			<impl>openj9</impl>
 		</disabled>
 		<variations>
@@ -341,12 +341,12 @@
 		<testCaseName>jck-runtime-api-javax_naming-spi</testCaseName>
 		<disabled>
 			<comment>Disabled on osx for infrastructure/issues/5254. Awaiting some automation improvements, in the interim these targets will be run manually</comment>
-			<platform>x86-64_mac(_mixed)?</platform>
+			<platform>x86-64_mac</platform>
 			<impl>ibm</impl>
 		</disabled>
 		<disabled>
 			<comment>Disabled on osx for infrastructure/issues/5254. Awaiting some automation improvements, in the interim these targets will be run manually</comment>
-			<platform>x86-64_mac(_mixed)?</platform>
+			<platform>x86-64_mac</platform>
 			<impl>openj9</impl>
 		</disabled>
 		<variations>
@@ -379,12 +379,12 @@
 		<testCaseName>jck-runtime-api-java_applet</testCaseName>
 		<disabled>
 			<comment>Disabled on osx for infrastructure/issues/5254. Awaiting some automation improvements, in the interim these targets will be run manually</comment>
-			<platform>x86-64_mac(_mixed)?</platform>
+			<platform>x86-64_mac</platform>
 			<impl>ibm</impl>
 		</disabled>
 		<disabled>
 			<comment>Disabled on osx for infrastructure/issues/5254. Awaiting some automation improvements, in the interim these targets will be run manually</comment>
-			<platform>x86-64_mac(_mixed)?</platform>
+			<platform>x86-64_mac</platform>
 			<impl>openj9</impl>
 		</disabled>
 		<variations>
@@ -414,7 +414,7 @@
 		</disabled>
 		<disabled>
 			<comment>Disabled on win64 on jdk8 due to backlog/issues/504. Awaiting some automation improvements, in the interim these targets will be run manually</comment>
-			<platform>x86-64_windows(_mixed)?</platform>
+			<platform>x86-64_windows</platform>
 			<version>8</version>
 			<impl>ibm</impl>
 		</disabled>
@@ -431,7 +431,7 @@
 		</disabled>
 		<disabled>
 			<comment>Disabled on win64 on jdk8 due to backlog/issues/504. Awaiting some automation improvements, in the interim these targets will be run manually</comment>
-			<platform>x86-64_windows(_mixed)?</platform>
+			<platform>x86-64_windows</platform>
 			<version>8</version>
 			<impl>openj9</impl>
 		</disabled>
@@ -451,13 +451,13 @@
 		<testCaseName>jck-runtime-api-java_beans</testCaseName>
 		<disabled>
 			<comment>Disabled on osx for infrastructure/issues/5254; on aix for backlog/issues/486. Awaiting some automation improvements, in the interim these targets will be run manually</comment>
-			<platform>x86-64_mac(_mixed)?|ppc64_aix(_mixed)?</platform>
+			<platform>x86-64_mac|ppc64_aix</platform>
 			<version>11</version>
 			<impl>ibm</impl>
 		</disabled>
 		<disabled>
 			<comment>Disabled on osx for infrastructure/issues/5254. Awaiting some automation improvements, in the interim these targets will be run manually</comment>
-			<platform>x86-64_mac(_mixed)?</platform>
+			<platform>x86-64_mac</platform>
 			<version>8</version>
 			<impl>ibm</impl>
 		</disabled>
@@ -469,13 +469,13 @@
 		</disabled>
 		<disabled>
 			<comment>Disabled on osx for infrastructure/issues/5254; on aix for backlog/issues/486. Awaiting some automation improvements, in the interim these targets will be run manually</comment>
-			<platform>x86-64_mac(_mixed)?|ppc64_aix(_mixed)?</platform>
+			<platform>x86-64_mac|ppc64_aix</platform>
 			<version>11</version>
 			<impl>openj9</impl>
 		</disabled>
 		<disabled>
 			<comment>Disabled on osx for infrastructure/issues/5254. Awaiting some automation improvements, in the interim these targets will be run manually</comment>
-			<platform>x86-64_mac(_mixed)?</platform>
+			<platform>x86-64_mac</platform>
 			<version>8</version>
 			<impl>openj9</impl>
 		</disabled>
@@ -501,12 +501,12 @@
 		<testCaseName>jck-runtime-api-java_io</testCaseName>
 		<disabled>
 			<comment>Disabled on osx for infrastructure/issues/5254. Awaiting some automation improvements, in the interim these targets will be run manually</comment>
-			<platform>x86-64_mac(_mixed)?</platform>
+			<platform>x86-64_mac</platform>
 			<impl>ibm</impl>
 		</disabled>
 		<disabled>
 			<comment>Disabled on osx for infrastructure/issues/5254. Awaiting some automation improvements, in the interim these targets will be run manually</comment>
-			<platform>x86-64_mac(_mixed)?</platform>
+			<platform>x86-64_mac</platform>
 			<impl>openj9</impl>
 		</disabled>
 		<variations>
@@ -625,25 +625,25 @@
 		<testCaseName>jck-runtime-api-java_security</testCaseName>
 		<disabled>
 			<comment>Disabled on win for backlog/issues/488. Awaiting some automation improvements, in the interim these targets will be run manually</comment>
-			<platform>x86-64_windows(_mixed)?</platform>
+			<platform>x86-64_windows</platform>
 			<version>11</version>
 			<impl>ibm</impl>
 		</disabled>
 		<disabled>
 			<comment>Disabled on win for backlog/issues/488. Awaiting some automation improvements, in the interim these targets will be run manually</comment>
-			<platform>x86-64_windows(_mixed)?</platform>
+			<platform>x86-64_windows</platform>
 			<version>8</version>
 			<impl>ibm</impl>
 		</disabled>
 		<disabled>
 			<comment>Disabled on win for backlog/issues/488. Awaiting some automation improvements, in the interim these targets will be run manually</comment>
-			<platform>x86-64_windows(_mixed)?</platform>
+			<platform>x86-64_windows</platform>
 			<version>11</version>
 			<impl>openj9</impl>
 		</disabled>
 		<disabled>
 			<comment>Disabled on win for backlog/issues/488. Awaiting some automation improvements, in the interim these targets will be run manually</comment>
-			<platform>x86-64_windows(_mixed)?</platform>
+			<platform>x86-64_windows</platform>
 			<version>8</version>
 			<impl>openj9</impl>
 		</disabled>
@@ -705,13 +705,13 @@
 		<testCaseName>jck-runtime-api-java_util</testCaseName>
 		<disabled>
 			<comment>Disabled on osx and win for backlog/issues/489. Awaiting some automation improvements, in the interim these targets will be run manually</comment>
-			<platform>x86-64_windows(_mixed)?|x86-64_mac(_mixed)?</platform>
+			<platform>x86-64_windows|x86-64_mac</platform>
 			<version>11</version>
 			<impl>ibm</impl>
 		</disabled>
 		<disabled>
 			<comment>Disabled on osx and win for backlog/issues/489. Awaiting some automation improvements, in the interim these targets will be run manually</comment>
-			<platform>x86-64_windows(_mixed)?|x86-64_mac(_mixed)?</platform>
+			<platform>x86-64_windows|x86-64_mac</platform>
 			<version>11</version>
 			<impl>openj9</impl>
 		</disabled>
@@ -731,12 +731,12 @@
 		<testCaseName>jck-runtime-api-javax_accessibility</testCaseName>
 		<disabled>
 			<comment>Disabled on osx for infrastructure/issues/5254. Awaiting some automation improvements, in the interim these targets will be run manually</comment>
-			<platform>x86-64_mac(_mixed)?</platform>
+			<platform>x86-64_mac</platform>
 			<impl>ibm</impl>
 		</disabled>
 		<disabled>
 			<comment>Disabled on osx for infrastructure/issues/5254. Awaiting some automation improvements, in the interim these targets will be run manually</comment>
-			<platform>x86-64_mac(_mixed)?</platform>
+			<platform>x86-64_mac</platform>
 			<impl>openj9</impl>
 		</disabled>
 		<variations>
@@ -817,12 +817,12 @@
 		<testCaseName>jck-runtime-api-javax_imageio</testCaseName>
 		<disabled>
 			<comment>Disabled on osx for infrastructure/issues/5254. Awaiting some automation improvements, in the interim these targets will be run manually</comment>
-			<platform>x86-64_mac(_mixed)?</platform>
+			<platform>x86-64_mac</platform>
 			<impl>ibm</impl>
 		</disabled>
 		<disabled>
 			<comment>Disabled on osx for infrastructure/issues/5254. Awaiting some automation improvements, in the interim these targets will be run manually</comment>
-			<platform>x86-64_mac(_mixed)?</platform>
+			<platform>x86-64_mac</platform>
 			<impl>openj9</impl>
 		</disabled>
 		<variations>
@@ -869,12 +869,12 @@
 		<testCaseName>jck-runtime-api-javax_naming</testCaseName>
 		<disabled>
 			<comment>Disabled on osx for infrastructure/issues/5254. Awaiting some automation improvements, in the interim these targets will be run manually</comment>
-			<platform>x86-64_mac(_mixed)?</platform>
+			<platform>x86-64_mac</platform>
 			<impl>ibm</impl>
 		</disabled>
 		<disabled>
 			<comment>Disabled on osx for infrastructure/issues/5254. Awaiting some automation improvements, in the interim these targets will be run manually</comment>
-			<platform>x86-64_mac(_mixed)?</platform>
+			<platform>x86-64_mac</platform>
 			<impl>openj9</impl>
 		</disabled>
 		<variations>
@@ -927,12 +927,12 @@
 		<testCaseName>jck-runtime-api-javax_print</testCaseName>
 		<disabled>
 			<comment>Disabled on osx for infrastructure/issues/5254. Awaiting some automation improvements, in the interim these targets will be run manually</comment>
-			<platform>x86-64_mac(_mixed)?</platform>
+			<platform>x86-64_mac</platform>
 			<impl>ibm</impl>
 		</disabled>
 		<disabled>
 			<comment>Disabled on osx for infrastructure/issues/5254. Awaiting some automation improvements, in the interim these targets will be run manually</comment>
-			<platform>x86-64_mac(_mixed)?</platform>
+			<platform>x86-64_mac</platform>
 			<impl>openj9</impl>
 		</disabled>
 		<variations>
@@ -993,12 +993,12 @@
 		<testCaseName>jck-runtime-api-javax_sound</testCaseName>
 		<disabled>
 			<comment>Disabled on osx for infrastructure/issues/5254. Awaiting some automation improvements, in the interim these targets will be run manually</comment>
-			<platform>x86-64_mac(_mixed)?</platform>
+			<platform>x86-64_mac</platform>
 			<impl>ibm</impl>
 		</disabled>
 		<disabled>
 			<comment>Disabled on osx for infrastructure/issues/5254. Awaiting some automation improvements, in the interim these targets will be run manually</comment>
-			<platform>x86-64_mac(_mixed)?</platform>
+			<platform>x86-64_mac</platform>
 			<impl>openj9</impl>
 		</disabled>
 		<variations>
@@ -1042,7 +1042,7 @@
 		</disabled>
 		<disabled>
 			<comment>Disabled on osx on jdk8 due to backlog/issues/5254 and on win32 due to backlog/issues/503. Awaiting some automation improvements, in the interim these targets will be run manually</comment>
-			<platform>x86-64_mac(_mixed)?|x86-32_windows(_mixed)?</platform>
+			<platform>x86-64_mac|x86-32_windows</platform>
 			<version>8</version>
 			<impl>ibm</impl>
 		</disabled>
@@ -1059,7 +1059,7 @@
 		</disabled>
 		<disabled>
 			<comment>Disabled on osx on jdk8 due to backlog/issues/5254 and on win32 due to backlog/issues/503. Awaiting some automation improvements, in the interim these targets will be run manually</comment>
-			<platform>x86-64_mac(_mixed)?|x86-32_windows(_mixed)?</platform>
+			<platform>x86-64_mac|x86-32_windows</platform>
 			<version>8</version>
 			<impl>openj9</impl>
 		</disabled>

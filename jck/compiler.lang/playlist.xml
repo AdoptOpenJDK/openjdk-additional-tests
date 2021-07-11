@@ -32,13 +32,13 @@
 		<testCaseName>jck-compiler-lang-CLSS-Group1</testCaseName>
 		<disabled>
 			<comment>Disabled on aix due to RTC: 144784</comment>
-			<platform>ppc64_aix(_mixed)?</platform>
+			<platform>ppc64_aix</platform>
 			<version>11</version>
 			<impl>ibm</impl>
 		</disabled>
 		<disabled>
 			<comment>Disabled on aix due to RTC: 144784</comment>
-			<platform>ppc64_aix(_mixed)?</platform>
+			<platform>ppc64_aix</platform>
 			<version>11</version>
 			<impl>openj9</impl>
 		</disabled>
@@ -58,13 +58,13 @@
 		<testCaseName>jck-compiler-lang-CLSS-Group2</testCaseName>
 		<disabled>
 			<comment>Disabled on aix due to RTC: 144784</comment>
-			<platform>ppc64_aix(_mixed)?</platform>
+			<platform>ppc64_aix</platform>
 			<version>11</version>
 			<impl>ibm</impl>
 		</disabled>
 		<disabled>
 			<comment>Disabled on aix due to RTC: 144784</comment>
-			<platform>ppc64_aix(_mixed)?</platform>
+			<platform>ppc64_aix</platform>
 			<version>11</version>
 			<impl>openj9</impl>
 		</disabled>
@@ -84,13 +84,13 @@
 		<testCaseName>jck-compiler-lang-CLSS-Group3</testCaseName>
 		<disabled>
 			<comment>Disabled on aix due to RTC: 144784</comment>
-			<platform>ppc64_aix(_mixed)?</platform>
+			<platform>ppc64_aix</platform>
 			<version>11</version>
 			<impl>ibm</impl>
 		</disabled>
 		<disabled>
 			<comment>Disabled on aix due to RTC: 144784</comment>
-			<platform>ppc64_aix(_mixed)?</platform>
+			<platform>ppc64_aix</platform>
 			<version>11</version>
 			<impl>openj9</impl>
 		</disabled>
@@ -110,13 +110,13 @@
 		<testCaseName>jck-compiler-lang-CLSS-Group4</testCaseName>
 		<disabled>
 			<comment>Disabled on aix due to RTC: 144784</comment>
-			<platform>ppc64_aix(_mixed)?</platform>
+			<platform>ppc64_aix</platform>
 			<version>11</version>
 			<impl>ibm</impl>
 		</disabled>
 		<disabled>
 			<comment>Disabled on aix due to RTC: 144784</comment>
-			<platform>ppc64_aix(_mixed)?</platform>
+			<platform>ppc64_aix</platform>
 			<version>11</version>
 			<impl>openj9</impl>
 		</disabled>
@@ -136,13 +136,13 @@
 		<testCaseName>jck-compiler-lang-CLSS-Group5</testCaseName>
 		<disabled>
 			<comment>Disabled on aix due to RTC: 144784</comment>
-			<platform>ppc64_aix(_mixed)?</platform>
+			<platform>ppc64_aix</platform>
 			<version>11</version>
 			<impl>ibm</impl>
 		</disabled>
 		<disabled>
 			<comment>Disabled on aix due to RTC: 144784</comment>
-			<platform>ppc64_aix(_mixed)?</platform>
+			<platform>ppc64_aix</platform>
 			<version>11</version>
 			<impl>openj9</impl>
 		</disabled>
@@ -162,13 +162,13 @@
 		<testCaseName>jck-compiler-lang-CLSS-Group6</testCaseName>
 		<disabled>
 			<comment>Disabled on aix due to RTC: 144784</comment>
-			<platform>ppc64_aix(_mixed)?</platform>
+			<platform>ppc64_aix</platform>
 			<version>11</version>
 			<impl>ibm</impl>
 		</disabled>
 		<disabled>
 			<comment>Disabled on aix due to RTC: 144784</comment>
-			<platform>ppc64_aix(_mixed)?</platform>
+			<platform>ppc64_aix</platform>
 			<version>11</version>
 			<impl>openj9</impl>
 		</disabled>
@@ -188,13 +188,13 @@
 		<testCaseName>jck-compiler-lang-CLSS-Group7</testCaseName>
 		<disabled>
 			<comment>Disabled on aix due to RTC: 144784</comment>
-			<platform>ppc64_aix(_mixed)?</platform>
+			<platform>ppc64_aix</platform>
 			<version>11</version>
 			<impl>ibm</impl>
 		</disabled>
 		<disabled>
 			<comment>Disabled on aix due to RTC: 144784</comment>
-			<platform>ppc64_aix(_mixed)?</platform>
+			<platform>ppc64_aix</platform>
 			<version>11</version>
 			<impl>openj9</impl>
 		</disabled>
@@ -214,13 +214,13 @@
 		<testCaseName>jck-compiler-lang-CLSS-Group8</testCaseName>
 		<disabled>
 			<comment>Disabled on aix due to RTC: 144784</comment>
-			<platform>ppc64_aix(_mixed)?</platform>
+			<platform>ppc64_aix</platform>
 			<version>11</version>
 			<impl>ibm</impl>
 		</disabled>
 		<disabled>
 			<comment>Disabled on aix due to RTC: 144784</comment>
-			<platform>ppc64_aix(_mixed)?</platform>
+			<platform>ppc64_aix</platform>
 			<version>11</version>
 			<impl>openj9</impl>
 		</disabled>
@@ -240,13 +240,13 @@
 		<testCaseName>jck-compiler-lang-CLSS-Group9</testCaseName>
 		<disabled>
 			<comment>Disabled on aix due to RTC: 144784</comment>
-			<platform>ppc64_aix(_mixed)?</platform>
+			<platform>ppc64_aix</platform>
 			<version>11</version>
 			<impl>ibm</impl>
 		</disabled>
 		<disabled>
 			<comment>Disabled on aix due to RTC: 144784</comment>
-			<platform>ppc64_aix(_mixed)?</platform>
+			<platform>ppc64_aix</platform>
 			<version>11</version>
 			<impl>openj9</impl>
 		</disabled>
@@ -266,13 +266,13 @@
 		<testCaseName>jck-compiler-lang-CLSS-Group10</testCaseName>
 		<disabled>
 			<comment>Disabled on aix due to RTC: 144784</comment>
-			<platform>ppc64_aix(_mixed)?</platform>
+			<platform>ppc64_aix</platform>
 			<version>11</version>
 			<impl>ibm</impl>
 		</disabled>
 		<disabled>
 			<comment>Disabled on aix due to RTC: 144784</comment>
-			<platform>ppc64_aix(_mixed)?</platform>
+			<platform>ppc64_aix</platform>
 			<version>11</version>
 			<impl>openj9</impl>
 		</disabled>
@@ -306,13 +306,13 @@
 		<testCaseName>jck-compiler-lang-EXPR</testCaseName>
 		<disabled>
 			<comment>Disabled on win and ppc64le due to backlog/issues/487. Awaiting some automation improvements, in the interim these targets will be run manually</comment>
-			<platform>ppc64le_linux(_mixed)?|x86-64_windows(_mixed)?</platform>
+			<platform>ppc64le_linux|x86-64_windows</platform>
 			<version>11</version>
 			<impl>ibm</impl>
 		</disabled>
 		<disabled>
 			<comment>Disabled on win and ppc64le due to backlog/issues/487. Awaiting some automation improvements, in the interim these targets will be run manually</comment>
-			<platform>ppc64le_linux(_mixed)?|x86-64_windows(_mixed)?</platform>
+			<platform>ppc64le_linux|x86-64_windows</platform>
 			<version>11</version>
 			<impl>openj9</impl>
 		</disabled>
@@ -346,13 +346,13 @@
 		<testCaseName>jck-compiler-lang-LMBD</testCaseName>
 		<disabled>
 			<comment>Disabled on win due to backlog/issues/487. Awaiting some automation improvements, in the interim these targets will be run manually</comment>
-			<platform>x86-64_windows(_mixed)?</platform>
+			<platform>x86-64_windows</platform>
 			<version>11</version>
 			<impl>ibm</impl>
 		</disabled>
 		<disabled>
 			<comment>Disabled on win due to backlog/issues/487. Awaiting some automation improvements, in the interim these targets will be run manually</comment>
-			<platform>x86-64_windows(_mixed)?</platform>
+			<platform>x86-64_windows</platform>
 			<version>11</version>
 			<impl>openj9</impl>
 		</disabled>
@@ -543,13 +543,13 @@
 		<testCaseName>jck-compiler-lang-ANNOT</testCaseName>
 		<disabled>
 			<comment>Disabled on win due to backlog/issues/487. Awaiting some automation improvements, in the interim these targets will be run manually</comment>
-			<platform>x86-64_windows(_mixed)?</platform>
+			<platform>x86-64_windows</platform>
 			<version>11</version>
 			<impl>ibm</impl>
 		</disabled>
 		<disabled>
 			<comment>Disabled on win due to backlog/issues/487. Awaiting some automation improvements, in the interim these targets will be run manually</comment>
-			<platform>x86-64_windows(_mixed)?</platform>
+			<platform>x86-64_windows</platform>
 			<version>11</version>
 			<impl>openj9</impl>
 		</disabled>
