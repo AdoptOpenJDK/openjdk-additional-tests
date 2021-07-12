@@ -374,14 +374,8 @@ vm/verifier/VerifyProtectedConstructor.java	https://github.com/eclipse-openj9/op
 java/foreign/TestArrays.java	https://github.com/adoptium/aqa-tests/issues/1701 generic-all
 java/foreign/TestLayouts.java	https://github.com/adoptium/aqa-tests/issues/1701 generic-all
 java/foreign/TestLayoutPaths.java	https://github.com/adoptium/aqa-tests/issues/1701	generic-all
-java/foreign/TestByteBuffer.java	https://github.com/adoptium/aqa-tests/issues/1702	generic-all
 java/foreign/TestLayoutConstants.java	https://github.com/adoptium/aqa-tests/issues/1702	generic-all
 java/foreign/TestNative.java https://github.com/adoptium/aqa-tests/issues/1920 generic-all
-java/foreign/TestSharedAccess.java https://github.com/eclipse-openj9/openj9/issues/11027 generic-all
-java/foreign/TestSpliterator.java https://github.com/eclipse-openj9/openj9/issues/11027 generic-all
-java/foreign/TestByteBuffer.java https://github.com/eclipse-openj9/openj9/issues/11027 generic-all
-java/foreign/TestHandshake.java https://github.com/eclipse-openj9/openj9/issues/11027 generic-all
-java/foreign/TestCleaner.java https://github.com/eclipse-openj9/openj9/issues/11027 generic-all
 java/foreign/stackwalk/TestStackWalk.java https://github.com/eclipse-openj9/openj9/issues/11027 generic-all
 java/foreign/valist/VaListTest.java https://github.com/eclipse-openj9/openj9/issues/11027 generic-all
 java/foreign/StdLibTest.java https://github.com/eclipse-openj9/openj9/issues/11027 generic-all
@@ -396,7 +390,6 @@ java/foreign/TestMemoryAlignment.java https://github.com/eclipse-openj9/openj9/i
 java/foreign/TestMemoryCopy.java https://github.com/eclipse-openj9/openj9/issues/11027 generic-all
 java/foreign/TestMemoryHandleAsUnsigned.java https://github.com/eclipse-openj9/openj9/issues/11027 generic-all
 java/foreign/TestMismatch.java https://github.com/eclipse-openj9/openj9/issues/11027 generic-all
-java/foreign/TestNativeScope.java https://github.com/eclipse-openj9/openj9/issues/11027 generic-all
 java/foreign/TestNulls.java https://github.com/eclipse-openj9/openj9/issues/11027 generic-all
 java/foreign/TestRebase.java https://github.com/eclipse-openj9/openj9/issues/11027 generic-all
 java/foreign/TestSegments.java https://github.com/eclipse-openj9/openj9/issues/11027 generic-all

@@ -374,14 +374,6 @@ vm/verifier/VerifyProtectedConstructor.java	https://github.com/eclipse-openj9/op
 
 # jdk_foreign
 
-# Foreign-Memory Access API, Third Incubator, JEP393 Failures
-java/foreign/TestByteBuffer.java https://github.com/eclipse-openj9/openj9/issues/11027 generic-all
-java/foreign/TestSharedAccess.java https://github.com/eclipse-openj9/openj9/issues/11027 generic-all
-java/foreign/TestSpliterator.java https://github.com/eclipse-openj9/openj9/issues/11027 generic-all
-java/foreign/TestHandshake.java https://github.com/eclipse-openj9/openj9/issues/11027 generic-all
-java/foreign/TestCleaner.java https://github.com/eclipse-openj9/openj9/issues/11027 generic-all
-java/foreign/TestNativeScope.java https://github.com/eclipse-openj9/openj9/issues/11027 generic-all
-
 # Foreign Linker API, JEP389, Failures
 java/foreign/TestNative.java https://github.com/eclipse-openj9/openj9/issues/11195 generic-all
 java/foreign/stackwalk/TestStackWalk.java https://github.com/eclipse-openj9/openj9/issues/11195 generic-all
