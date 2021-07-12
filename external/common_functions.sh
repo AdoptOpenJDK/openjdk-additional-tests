@@ -226,14 +226,17 @@ function set_test_info() {
         ubi_packages="git wget unzip"
         ubi_minimal_packages="${ubi_packages}"
         ;;
-    external_custom)
+    ${test})
         PROPERTY_FILE=external_custom/test.properties
         GITHUB_URL=$(getProperty "github_url")
         github_url="${EXTERNAL_CUSTOM_REPO}"
+        echo "The value of the EXTERNAL_CUSTOM_REPO in common_functions.sh is ${EXTERNAL_CUSTOM_REPO}"
         script="test.sh"
         test_command="${EXTERNAL_TEST_CMD}"
+        echo "The value of the EXTERNAL_TEST_CMD in common_functions.sh is ${EXTERNAL_TEST_CMD}"
         test_results="testResults"
         tag_version="${EXTERNAL_REPO_BRANCH}"
+        echo "The value of the EXTERNAL_REPO_BRANCH in common_functions.sh is ${EXTERNAL_REPO_BRANCH}"
         environment_variable="MODE=\"java\""
         debian_packages="git maven"
         debianslim_packages="${debian_packages}"
